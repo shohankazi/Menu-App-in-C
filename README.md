@@ -32,19 +32,19 @@ Welcome to the Matrix Operations Application! This C program empowers users to p
 2. Navigate to the project directory:
 
    ```bash
-   cd matrix-operations-c
+   cd Menu-App-in-C
    ```
 
 3. Compile the program:
 
    ```bash
-   gcc matrix_operations.c -o matrix_operations
+   gcc Menu_App.c -o Menu_App
    ```
 
 4. Run the executable:
 
    ```bash
-   ./matrix_operations
+   .\Menu_App
    ```
 
 5. Follow the on-screen menu to choose the desired matrix operation.
